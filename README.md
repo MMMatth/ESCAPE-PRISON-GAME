@@ -1,4 +1,4 @@
-# ESCAPE-PRISON
+# ESCAPE-PRISON-GAME
 My year-end project, game in python
 <br/> Game pygame
 <br/>
